@@ -3,11 +3,7 @@ import OnePiecePage from "./components/OnePiecePage";
 
 function App() {
   return (
-    <div>
-      <Header />
-      <MainContent />
-      <Footer />
-    </div>
+    <OnePiecePage/>
   );
 }
 
